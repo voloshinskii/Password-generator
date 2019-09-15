@@ -1,6 +1,10 @@
 {
   "private": true,
-  "homepage": "http://ruinername.github.io/Password-generator",
+  "homepage": "https://password.voloshinskii.ru",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ruinername/Password-generator.git"
+  },
   "scripts": {
     "deploy": "gh-pages -d build",
     "predeploy": "npm run build",

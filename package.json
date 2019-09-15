@@ -1,6 +1,6 @@
 {
   "private": true,
-  "homepage": "https://create-react-app-redux.now.sh",
+  "homepage": "http://ruinername.github.io/Password-generator",
   "scripts": {
     "deploy": "gh-pages -d build",
     "predeploy": "npm run build",
